@@ -18,5 +18,5 @@ Northeast Security LLC | Small office VLAN-Segmented Network Design | Created by
 - Guest Wi-Fi isolated from internal assets  
 - NAS with encrypted cloud backup
 
-![Network Diagram](./northside_security_network.png)
+![Network Diagram](northeast_security_LLC.png)
 
