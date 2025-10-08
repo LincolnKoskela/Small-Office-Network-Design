@@ -4,11 +4,11 @@ Northeast Security LLC | Small office VLAN-Segmented Network Design | Created by
 **Goal:** Design a secure, VLAN-segmented small-office network for ~10 employees.
 
 ### Files
-- `northside_security_network.png` — visual topology diagram
-- `Network-Design-Summary.md` — VLAN plan & firewall rules
+- `northside_security_network.png` - visual topology diagram
+- `Network-Design-Summary.md` - VLAN plan & firewall rules
 
 ### Key Features
-- VLAN 10 – Staff Network  
+- VLAN 10 - Staff Network  
 - VLAN 20 – Guest Network  
 - VLAN 30 – Servers/Peripherals  
 - VLAN 99 – Management  
