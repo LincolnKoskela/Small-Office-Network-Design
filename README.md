@@ -11,7 +11,6 @@ Northeast Security LLC | Small office VLAN-Segmented Network Design | Created by
 - VLAN 10 - Staff Network  
 - VLAN 20 – Guest Network  
 - VLAN 30 – Servers/Peripherals  
-- VLAN 99 – Management  
 
 ### Security Highlights
 - Inter-VLAN routing controlled by firewall  
